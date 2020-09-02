@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Conheça um pouco mais sobre o projeto Madará
 
-You can use the [editor on GitHub](https://github.com/troogg/Madara/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Madará nasceu através das matérias de engenharia de software e engenharia de requisitos onde a principal ideia do projeto era selecionarmos um cliente e propô-lo uma solução para um possível problema\dificuldade na rotina operacional de sua empresa, baseado nas ferramentas que o cliente já utiliza no dia a dia
 
 ### Markdown
 
