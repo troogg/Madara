@@ -1,0 +1,17 @@
+Importante !!!
+
+Artefatos que foram corrigidos para prova !!
+8 - Análise das causas raízes; 
+9 - Usuários e Outros Stakeholders; 
+12 - Lista de Caracteristicas; 
+13 - (P)rioridade X (E)sforço X (R)isco X (B)aseline
+16 - DFD Essencial Capacidade; 
+17 - Análise dos Eventos para cada Cenário; 
+18 - Descrição dos Processos de Negócio; 
+20 - Modelo Conceitual de Negócio; 
+21 - Análise do Ciclo de Vida; 
+23
+ - Matrizes de rastreabilidade (Caracteristicas x SSS_ Incompleto)
+
+
+
